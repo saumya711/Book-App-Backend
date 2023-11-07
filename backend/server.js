@@ -14,7 +14,7 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cors({
   origin: [
   "http://localhost:3000", 
-  "https://mern-task-app-2ql0.onrender.com" 
+  "https://mern-book-app-2ql0.onrender.com" 
 ]
 }));
 
